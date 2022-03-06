@@ -1,13 +1,15 @@
 # Proyecto2trimestre
 
 Estructura de archivos:
-
-      doc:
+      DATOS:
+          >IMPORTS
+          >EXPORTS
+      DOC:
           > PDF
       
-      src:
-           > Aggregates.js
-           > Inserts.js
+      SRC:
+           > AGGREGATE
+           > INSERTS
           
-      README.md
+      README
 Antonio Manuel Amaya Quiles
