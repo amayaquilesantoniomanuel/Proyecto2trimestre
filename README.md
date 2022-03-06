@@ -1,10 +1,12 @@
 # Proyecto2trimestre
 
 Estructura de archivos:
+      
       DATOS:
       >IMPORTS
       >EXPORTS
-      DOC:
+     
+     DOC:
           > PDF
       
       SRC:
