@@ -3,7 +3,7 @@
 Estructura de archivos:
 
       doc:
-          > Proyecto_ Mongo.pdf
+          > PDF
       
       src:
            > Aggregates.js
