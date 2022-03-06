@@ -2,8 +2,8 @@
 
 Estructura de archivos:
       DATOS:
-          >IMPORTS
-          >EXPORTS
+      >IMPORTS
+      >EXPORTS
       DOC:
           > PDF
       
