@@ -1,0 +1,10 @@
+EJEMPLOS DE SINTAXIS DE IMPORT Y EXPORT TANTO LOCALHOST COMO MONGO ATLAS
+
+IMPORTAR DESDE LOCAL
+mongoimport /d clase /c Clientes /type JSON /file "C:\Users\Antonio Manuel\Desktop\Proyecto2trimestre\datos\clienteslocal"
+EXPORTAR DESDE LOCAL
+mongoexport /db  clase /c Ventas  /type json /o "C:\Users\Antonio Manuel\Desktop\Proyecto2trimestre\datos\ventaslocal"
+IMPORTAR DESDE ATLAS
+mongoimport /uri mongodb+srv://amamaya:quiles004@cluster0.wzpcv.mongodb.net/Proyecto2trimestre /collection Clientes /type JSON /file "C:\Users\Antonio Manuel\Desktop\Proyecto2trimestre\datos\clientesatlas"
+EXPORTAR DESDE ATLAS
+mongoexport /uri mongodb+srv://amamaya:quiles004@cluster0.wzpcv.mongodb.net/Proyecto2trimestre /collection Clientes /type JSON /out Clientesatlas

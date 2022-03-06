@@ -1,0 +1,20 @@
+{"_id":1.0,"Nombre":"Arroz Blanco","PrecioUnidad":10.0}
+{"_id":2.0,"Nombre":"Chorizo","PrecioUnidad":15.0}
+{"_id":3.0,"Nombre":"Lomo embutido","PrecioUnidad":10.0}
+{"_id":4.0,"Nombre":"Tortilla","PrecioUnidad":3.0}
+{"_id":5.0,"Nombre":"Tomate cherry","PrecioUnidad":20.0}
+{"_id":6.0,"Nombre":"Chocolate","PrecioUnidad":10.0}
+{"_id":7.0,"Nombre":"Pollo","PrecioUnidad":15.0}
+{"_id":8.0,"Nombre":"Batido de chocolate","PrecioUnidad":30.0}
+{"_id":9.0,"Nombre":"Cereales","PrecioUnidad":25.0}
+{"_id":10.0,"Nombre":"Huevos","PrecioUnidad":10.0}
+{"_id":11.0,"Nombre":"Cocacola","PrecioUnidad":15.0}
+{"_id":12.0,"Nombre":"Pepsi","PrecioUnidad":5.0}
+{"_id":13.0,"Nombre":"Patatas","PrecioUnidad":10.0}
+{"_id":14.0,"Nombre":"Pipas","PrecioUnidad":3.0}
+{"_id":15.0,"Nombre":"Caramelos","PrecioUnidad":5.0}
+{"_id":16.0,"Nombre":"Palomitas","PrecioUnidad":10.0}
+{"_id":17.0,"Nombre":"Lacasitos","PrecioUnidad":25.0}
+{"_id":18.0,"Nombre":"Galletas","PrecioUnidad":30.0}
+{"_id":19.0,"Nombre":"Bizcocho","PrecioUnidad":10.0}
+{"_id":20.0,"Nombre":"Nutella","PrecioUnidad":25.0}

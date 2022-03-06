@@ -1,0 +1,16 @@
+{"_id":"94394320P","Nombre":"Raul","Apellidos":"Perez","FechaNac":{"$date":"1970-01-01T00:00:01.952Z"},"HorasSemanales":[6.0,3.0,0.0,2.0]}
+{"_id":"24393943N","Nombre":"Jorge","Apellidos":"Serrano","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[5.0,0.0,1.0,3.0]}
+{"_id":"34243243B","Nombre":"Diego","Apellidos":"Perez","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[2.0,1.0,0.0,2.0]}
+{"_id":"43939432S","Nombre":"Armando","Apellidos":"Garcia","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[2.0,0.0,0.0,1.0]}
+{"_id":"93493499A","Nombre":"Estela","Apellidos":"Hidalgo","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[3.0,4.0,0.0,0.0]}
+{"_id":"29321990A","Nombre":"Sofia","Apellidos":"Curro","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[1.0,0.0,2.0,3.0]}
+{"_id":"39409030P","Nombre":"Ramon","Apellidos":"Chingueta","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[2.0,2.0,3.0,5.0]}
+{"_id":"82439319H","Nombre":"Hector","Apellidos":"Montañez","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[4.0,1.0,2.0,3.0]}
+{"_id":"24039439J","Nombre":"Elena","Apellidos":"Fuentes","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[3.0,2.0,1.0,3.0]}
+{"_id":"20310202B","Nombre":"Adrian","Apellidos":"Campos","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[4.0,0.0,0.0,3.0]}
+{"_id":"30402390S","Nombre":"Rafa","Apellidos":"Pons","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[0.0,0.0,20.0,0.0]}
+{"_id":"29203191P","Nombre":"Juanma","Apellidos":"Ugarte","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[6.0,3.0,1.0,3.0]}
+{"_id":"23020322S","Nombre":"Manuel","Apellidos":"Peña","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[5.0,0.0,0.0,7.0]}
+{"_id":"92403240J","Nombre":"Miguel","Apellidos":"Romero","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[5.0,3.0,2.0,3.0]}
+{"_id":"92382398P","Nombre":"Marco","Apellidos":"Zapata","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[5.0,4.0,1.0,3.0]}
+{"_id":"90123902A","Nombre":"Aurelio","Apellidos":"Sanchez","FechaNac":{"$date":"1970-04-10T00:00:00Z"},"HorasSemanales":[5.0,2.0,1.0,3.0]}
